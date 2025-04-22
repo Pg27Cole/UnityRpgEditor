@@ -1,7 +1,7 @@
 {
   "displayName": "Unity RPG Editor",
   "author": "Cole deBoer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "name": "com.cdeboer.unityrpgeditor",
   "documentationUrl": "https://github.com/cdeboer/[repourl]",
   "changelogUrl": "https://github.com/cdeboer/[repourl]/blob/main/CHANGELOG.md",
