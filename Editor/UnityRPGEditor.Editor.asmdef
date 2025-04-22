@@ -1,0 +1,18 @@
+{
+    "name": "UnityRPGEditor.Editor",
+    "rootNamespace": "UnityRPGEditor.Editor",
+    "references": [
+        "GUID:ce8c7726ef7eb694599a73f11f272b8a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
